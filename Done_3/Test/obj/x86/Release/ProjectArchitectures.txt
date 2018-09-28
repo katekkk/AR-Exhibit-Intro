@@ -1,0 +1,6 @@
+C:\Users\katek\Documents\Test\Done_3\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\katek\Documents\Test\Done_3\GeneratedProjects\UWP\Unity.TextMeshPro.Tests\Unity.TextMeshPro.Tests.csproj;x86
+C:\Users\katek\Documents\Test\Done_3\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\katek\Documents\Test\Done_3\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\katek\Documents\Test\Done_3\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
+C:\Users\katek\Documents\Test\Done_3\Test\Test.csproj;x86
